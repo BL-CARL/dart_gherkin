@@ -1,4 +1,4 @@
-import 'package:gherkin/gherkin.dart';
+import 'package:carlbl_gherkin/gherkin.dart';
 
 /// This step expects a multi-line string proceeding it
 ///

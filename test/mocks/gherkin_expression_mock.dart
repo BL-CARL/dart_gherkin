@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:gherkin/src/gherkin/expressions/gherkin_expression.dart';
+import 'package:carlbl_gherkin/src/gherkin/expressions/gherkin_expression.dart';
 
 typedef IsMatchFn = bool Function(String input);
 

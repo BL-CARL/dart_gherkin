@@ -1,8 +1,8 @@
-import 'package:gherkin/src/gherkin/exceptions/syntax_error.dart';
-import 'package:gherkin/src/gherkin/runnables/debug_information.dart';
-import 'package:gherkin/src/gherkin/runnables/multi_line_string.dart';
-import 'package:gherkin/src/gherkin/runnables/step.dart';
-import 'package:gherkin/src/gherkin/runnables/table.dart';
+import 'package:carlbl_gherkin/src/gherkin/exceptions/syntax_error.dart';
+import 'package:carlbl_gherkin/src/gherkin/runnables/debug_information.dart';
+import 'package:carlbl_gherkin/src/gherkin/runnables/multi_line_string.dart';
+import 'package:carlbl_gherkin/src/gherkin/runnables/step.dart';
+import 'package:carlbl_gherkin/src/gherkin/runnables/table.dart';
 import 'package:test/test.dart';
 
 void main() {

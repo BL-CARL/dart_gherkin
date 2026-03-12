@@ -1,4 +1,4 @@
-import 'package:gherkin/src/gherkin/languages/dialect.dart';
+import 'package:carlbl_gherkin/src/gherkin/languages/dialect.dart';
 
 class EnDialectMock extends GherkinDialect {
   EnDialectMock()

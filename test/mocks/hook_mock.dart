@@ -1,4 +1,4 @@
-import 'package:gherkin/gherkin.dart';
+import 'package:carlbl_gherkin/gherkin.dart';
 
 typedef OnBeforeRunCode = void Function();
 

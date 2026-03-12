@@ -1,3 +1,7 @@
+### Custom Changes to the original library
+- Compatibility with Dart 3.0
+- Support asynchronous callbacks for CustomParameter
+
 # dart_gherkin
 
 A fully featured Gherkin parser and test runner.  Works with Flutter and Dart 2.

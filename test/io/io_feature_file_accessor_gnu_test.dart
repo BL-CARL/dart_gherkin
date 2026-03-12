@@ -1,6 +1,6 @@
 @TestOn('!windows')
 
-import 'package:gherkin/gherkin.dart';
+import 'package:carlbl_gherkin/gherkin.dart';
 import 'package:glob/glob.dart';
 import 'package:test/test.dart';
 

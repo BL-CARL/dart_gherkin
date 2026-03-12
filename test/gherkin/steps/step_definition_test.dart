@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:gherkin/gherkin.dart';
-import 'package:gherkin/src/expect/expect_mimic.dart';
+import 'package:carlbl_gherkin/gherkin.dart';
+import 'package:carlbl_gherkin/src/expect/expect_mimic.dart';
 import 'package:test/test.dart';
 
 import '../../mocks/reporter_mock.dart';
