@@ -66,7 +66,6 @@ class StdoutReporter implements InfoReporter {
       case MessageLevel.warning:
         return kWarnColor;
       case MessageLevel.info:
-      default:
         return kNeutralColor;
     }
   }
